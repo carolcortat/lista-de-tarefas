@@ -8,9 +8,15 @@ Este repositório contém um projeto simples, mas muito útil: uma **lista de ta
 
 -----
 
-## 📝 O que você vai encontrar por aqui?
+## Principais tecnologias utilizadas
 
-Este projeto é uma aplicação web feita utilizando **HTML**, **CSS** e **JavaScript**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" widht="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" widht="50" height="50">
+</div>v
+
+----
 
 Basicamente, o que fizemos foi:
 
