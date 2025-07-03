@@ -14,7 +14,8 @@ Este repositório contém um projeto simples, mas muito útil: uma **lista de ta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" widht="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" widht="50" height="50">
-</div>v
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" widht="50" height="50">
+</div>
 
 ----
 
